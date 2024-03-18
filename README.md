@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Chougule currently pursuing B.Tech in ELectronics and Telecommunications.
+- 👋 Hi, I’m Aditya Chougule currently pursuing B.Tech in Electronics and Telecommunications.
 - 👀 I’m interested in Web Development and Front-End Development
 - 🌱 I’m currently learning HTML,CSS,Bootstrap,Javascript and C++
 - 😄 Pronouns: He/Him 
